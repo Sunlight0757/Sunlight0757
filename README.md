@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AimAchieve&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Sunlight&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">
@@ -46,7 +46,7 @@ Thank you
 <br/>
 
 <p align="center">
-  <a href="https://github.com/aimachieve"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Ecommerce%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/sunlight0757"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Full-Stack%20Blockchain%20Ecommerce%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 <br/>
@@ -62,7 +62,7 @@ Thank you
 </div> 
 
 <p align="center">
-<a href="https://app.daily.dev/aimachieve"><img src="https://github.com/aimachieve/aimachieve/blob/main/devcard.svg" width="400" alt="Aim Achieve's Dev Card"/></a>
+<a href="https://app.daily.dev/sunlight0757"><img src="https://github.com/sunlight0757/sunlight0757/blob/main/devcard.svg" width="400" alt="Aim Achieve's Dev Card"/></a>
 </p>
 
 <br/>
