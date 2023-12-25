@@ -62,7 +62,7 @@ Thank you
 </div> 
 
 <p align="center">
-<a href="https://app.daily.dev/sunlight0757"><img src="https://github.com/sunlight0757/sunlight0757/blob/main/devcard.svg" width="400" alt="Aim Achieve's Dev Card"/></a>
+<a href="https://app.daily.dev/sunlight0757"><img src="https://github.com/sunlight0757/sunlight0757/blob/main/devcard.svg" width="400" alt="Sunlight's Dev Card"/></a>
 </p>
 
 <br/>
