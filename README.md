@@ -59,11 +59,7 @@ Thank you
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div> 
-
-<p align="center">
-<a href="https://app.daily.dev/sunlight0757"><img src="https://github.com/sunlight0757/sunlight0757/blob/main/devcard.svg" width="400" alt="Sunlight's Dev Card"/></a>
-</p>
+</div>
 
 <br/>
 
